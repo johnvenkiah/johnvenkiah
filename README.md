@@ -1,4 +1,4 @@
-- 👋 Hi, I’m John, musician but currently studying Full Stack Web Developement Diploma at Code Institute through which I plan to find work in the near future.
+Hi, I’m John, musician but currently studying Full Stack Web Developement Diploma at Code Institute through which I plan to find work in the near future.
 
 I will on gradually fill my Github with my work, and I would love some constructive feedback if you are here and feel the urge.
 
